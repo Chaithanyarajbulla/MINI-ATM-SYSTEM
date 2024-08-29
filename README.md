@@ -23,9 +23,3 @@ The **MINI ATM System** is a simple Python program designed to simulate a basic 
 
 4. **Invalid Data Handling:**
    - If an incorrect name or PIN is entered, the system will prompt the user to try again.
-            else:
-                print("Invalid pin.")
-        else:
-            print("Invalid name.")
-
-main()
